@@ -2,7 +2,7 @@
 ### About Me 👋
 
 " Hi ! and welcome to my github. My name is Hafizullah Qasemi.
-A recent graduate and a Junior Developer at Yields.io
+A Junior Developer at Yields.io
 
 ## Contact Me 📫
 
