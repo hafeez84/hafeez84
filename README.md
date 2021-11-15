@@ -1,9 +1,7 @@
 
-### About Me 👋
+### 👋
 
-" Hi ! and welcome to my github. My name is Hafizullah Qasemi.
-A Junior Developer at Yields.io
-
+" Hi ! \nand welcome to my world !
 ## Contact Me 📫
 
 [![Linkedin Badge](https://img.shields.io/badge/Hafiz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hafizullah-qasemi/)
