@@ -1,7 +1,8 @@
 
 ### 👋
 
-" Hi ! \nand welcome to my world !
+" Hi !
+ and welcome to my world !
 ## Contact Me 📫
 
 [![Linkedin Badge](https://img.shields.io/badge/Hafiz-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hafizullah-qasemi/)
